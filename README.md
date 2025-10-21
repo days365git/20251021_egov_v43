@@ -16,3 +16,13 @@ https://www.egovframe.go.kr/home/sub.do?menuNo=67
 
 ##### https://www.egovframe.go.kr/wiki/doku.php?id=egovframework:com:v4.3:init_table
 <img width="2559" height="869" alt="image" src="https://github.com/user-attachments/assets/9f0bcf2a-a762-4791-94b1-f9fe70a09e27" />
+
+
+### 호환성확인 가이드라인
+##### https://maven.egovframe.go.kr/publist/HDD1/public/documents/%ED%98%B8%ED%99%98%EC%84%B1%ED%99%95%EC%9D%B8_%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8_20241114.pdf
+
+### 예제다운로드 > security-starter-sample.zip [79,678 Byte]
+<img width="2554" height="1288" alt="image" src="https://github.com/user-attachments/assets/26231b78-8e18-4ca7-a580-d385335d73d6" />
+
+<img width="2559" height="959" alt="image" src="https://github.com/user-attachments/assets/6355ccc9-4d5a-4e62-91c1-e26da181fcd5" />
+<img width="2559" height="978" alt="image" src="https://github.com/user-attachments/assets/d32d76f3-5ac6-49e5-ac2a-072c96e2033b" />
