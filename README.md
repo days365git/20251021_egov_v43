@@ -1,6 +1,6 @@
 ### 가이드
-##### https://www.egovframe.go.kr/wiki/doku.php?id=egovframework:com:v4.3:init_guide
 ##### https://github.com/orgs/eGovFramework/repositories
+##### https://www.egovframe.go.kr/wiki/doku.php?id=egovframework:com:v4.3:init_guide
 ##### https://github.com/eGovFramework/egovframe-common-components
 
 ### 기술지원
