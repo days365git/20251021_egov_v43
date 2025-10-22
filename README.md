@@ -38,3 +38,6 @@ security-starter-sample.zip [79,678 Byte]
 session-starter-sample.zip [77,073 Byte]
 ```
 ##### https://www.egovframe.go.kr/home/sub.do?menuNo=37
+
+### crypto 간소화 서비스
+##### https://www.egovframe.go.kr/wiki/doku.php?id=egovframework:rte2:fdl:crypto_simplify_v3_8
